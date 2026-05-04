@@ -1,0 +1,5 @@
+ship_mode,ship_mode_rank,ship_mode_type
+Same Day,1,Express
+First Class,2,Express
+Second Class,3,Regular
+Standard Class,4,Regular

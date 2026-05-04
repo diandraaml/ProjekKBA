@@ -1,0 +1,633 @@
+region,state,city,postal_code,country
+Central,Illinois,Arlington Heights,60004,United States
+Central,Illinois,Aurora,60505,United States
+Central,Illinois,Bloomington,61701,United States
+Central,Illinois,Bolingbrook,60440,United States
+Central,Illinois,Buffalo Grove,60089,United States
+Central,Illinois,Carol Stream,60188,United States
+Central,Illinois,Champaign,61821,United States
+Central,Illinois,Chicago,60623,United States
+Central,Illinois,Chicago,60653,United States
+Central,Illinois,Chicago,60610,United States
+Central,Illinois,Danville,61832,United States
+Central,Illinois,Decatur,62521,United States
+Central,Illinois,Des Plaines,60016,United States
+Central,Illinois,Elmhurst,60126,United States
+Central,Illinois,Evanston,60201,United States
+Central,Illinois,Frankfort,60423,United States
+Central,Illinois,Freeport,61032,United States
+Central,Illinois,Glenview,60025,United States
+Central,Illinois,Highland Park,60035,United States
+Central,Illinois,Naperville,60540,United States
+Central,Illinois,Normal,61761,United States
+Central,Illinois,Oak Park,60302,United States
+Central,Illinois,Orland Park,60462,United States
+Central,Illinois,Oswego,60543,United States
+Central,Illinois,Palatine,60067,United States
+Central,Illinois,Park Ridge,60068,United States
+Central,Illinois,Peoria,61604,United States
+Central,Illinois,Quincy,62301,United States
+Central,Illinois,Rockford,61107,United States
+Central,Illinois,Romeoville,60441,United States
+Central,Illinois,Saint Charles,60174,United States
+Central,Illinois,Skokie,60076,United States
+Central,Illinois,Tinley Park,60477,United States
+Central,Illinois,Wheeling,60090,United States
+Central,Illinois,Woodstock,60098,United States
+Central,Indiana,Bloomington,47401,United States
+Central,Indiana,Columbus,47201,United States
+Central,Indiana,Elkhart,46514,United States
+Central,Indiana,Greenwood,46142,United States
+Central,Indiana,Indianapolis,46203,United States
+Central,Indiana,La Porte,46350,United States
+Central,Indiana,Lafayette,47905,United States
+Central,Indiana,Lawrence,46226,United States
+Central,Indiana,Mishawaka,46544,United States
+Central,Indiana,New Albany,47150,United States
+Central,Indiana,New Castle,47362,United States
+Central,Indiana,Noblesville,46060,United States
+Central,Indiana,Portage,46368,United States
+Central,Indiana,Richmond,47374,United States
+Central,Indiana,South Bend,46614,United States
+Central,Iowa,Burlington,52601,United States
+Central,Iowa,Cedar Rapids,52402,United States
+Central,Iowa,Des Moines,50315,United States
+Central,Iowa,Dubuque,52001,United States
+Central,Iowa,Iowa City,52240,United States
+Central,Iowa,Marion,52302,United States
+Central,Iowa,Urbandale,50322,United States
+Central,Iowa,Waterloo,50701,United States
+Central,Kansas,Garden City,67846,United States
+Central,Kansas,Manhattan,66502,United States
+Central,Kansas,Olathe,66062,United States
+Central,Kansas,Overland Park,66212,United States
+Central,Kansas,Wichita,67212,United States
+Central,Michigan,Ann Arbor,48104,United States
+Central,Michigan,Canton,48187,United States
+Central,Michigan,Dearborn,48126,United States
+Central,Michigan,Dearborn Heights,48127,United States
+Central,Michigan,Detroit,48234,United States
+Central,Michigan,Detroit,48227,United States
+Central,Michigan,Detroit,48205,United States
+Central,Michigan,Grand Rapids,49505,United States
+Central,Michigan,Holland,49423,United States
+Central,Michigan,Jackson,49201,United States
+Central,Michigan,Lansing,48911,United States
+Central,Michigan,Lincoln Park,48146,United States
+Central,Michigan,Midland,48640,United States
+Central,Michigan,Mount Pleasant,48858,United States
+Central,Michigan,Oak Park,48237,United States
+Central,Michigan,Rochester Hills,48307,United States
+Central,Michigan,Roseville,48066,United States
+Central,Michigan,Royal Oak,48073,United States
+Central,Michigan,Saginaw,48601,United States
+Central,Michigan,Sterling Heights,48310,United States
+Central,Michigan,Taylor,48180,United States
+Central,Michigan,Trenton,48183,United States
+Central,Michigan,Westland,48185,United States
+Central,Minnesota,Apple Valley,55124,United States
+Central,Minnesota,Coon Rapids,55433,United States
+Central,Minnesota,Cottage Grove,55016,United States
+Central,Minnesota,Eagan,55122,United States
+Central,Minnesota,Lakeville,55044,United States
+Central,Minnesota,Maple Grove,55369,United States
+Central,Minnesota,Minneapolis,55407,United States
+Central,Minnesota,Moorhead,56560,United States
+Central,Minnesota,Rochester,55901,United States
+Central,Minnesota,Roseville,55113,United States
+Central,Minnesota,Saint Cloud,56301,United States
+Central,Minnesota,Saint Paul,55106,United States
+Central,Minnesota,Woodbury,55125,United States
+Central,Missouri,Columbia,65203,United States
+Central,Missouri,Gladstone,64118,United States
+Central,Missouri,Independence,64055,United States
+Central,Missouri,Jefferson City,65109,United States
+Central,Missouri,Kirkwood,63122,United States
+Central,Missouri,Saint Charles,63301,United States
+Central,Missouri,Saint Louis,63116,United States
+Central,Missouri,Saint Peters,63376,United States
+Central,Missouri,Springfield,65807,United States
+Central,Nebraska,Fremont,68025,United States
+Central,Nebraska,Grand Island,68801,United States
+Central,Nebraska,Norfolk,68701,United States
+Central,Nebraska,Omaha,68104,United States
+Central,North Dakota,Fargo,58103,United States
+Central,Oklahoma,Broken Arrow,74012,United States
+Central,Oklahoma,Edmond,73034,United States
+Central,Oklahoma,Lawton,73505,United States
+Central,Oklahoma,Muskogee,74403,United States
+Central,Oklahoma,Norman,73071,United States
+Central,Oklahoma,Oklahoma City,73120,United States
+Central,Oklahoma,Tulsa,74133,United States
+Central,South Dakota,Aberdeen,57401,United States
+Central,South Dakota,Rapid City,57701,United States
+Central,South Dakota,Sioux Falls,57103,United States
+Central,Texas,Abilene,79605,United States
+Central,Texas,Allen,75002,United States
+Central,Texas,Amarillo,79109,United States
+Central,Texas,Arlington,76017,United States
+Central,Texas,Austin,78745,United States
+Central,Texas,Baytown,77520,United States
+Central,Texas,Beaumont,77705,United States
+Central,Texas,Bedford,76021,United States
+Central,Texas,Brownsville,78521,United States
+Central,Texas,Bryan,77803,United States
+Central,Texas,Carrollton,75007,United States
+Central,Texas,Cedar Hill,75104,United States
+Central,Texas,College Station,77840,United States
+Central,Texas,Conroe,77301,United States
+Central,Texas,Coppell,75019,United States
+Central,Texas,Corpus Christi,78415,United States
+Central,Texas,Dallas,75081,United States
+Central,Texas,Dallas,75217,United States
+Central,Texas,Dallas,75220,United States
+Central,Texas,Deer Park,77536,United States
+Central,Texas,Edinburg,78539,United States
+Central,Texas,El Paso,79907,United States
+Central,Texas,Fort Worth,76106,United States
+Central,Texas,Frisco,75034,United States
+Central,Texas,Garland,75043,United States
+Central,Texas,Grand Prairie,75051,United States
+Central,Texas,Grapevine,76051,United States
+Central,Texas,Haltom City,76117,United States
+Central,Texas,Harlingen,78550,United States
+Central,Texas,Houston,77070,United States
+Central,Texas,Houston,77095,United States
+Central,Texas,Houston,77036,United States
+Central,Texas,Houston,77041,United States
+Central,Texas,Huntsville,77340,United States
+Central,Texas,Irving,75061,United States
+Central,Texas,Keller,76248,United States
+Central,Texas,La Porte,77571,United States
+Central,Texas,Laredo,78041,United States
+Central,Texas,League City,77573,United States
+Central,Texas,Lubbock,79424,United States
+Central,Texas,Mansfield,76063,United States
+Central,Texas,Mcallen,78501,United States
+Central,Texas,Mesquite,75150,United States
+Central,Texas,Missouri City,77489,United States
+Central,Texas,Odessa,79762,United States
+Central,Texas,Pasadena,77506,United States
+Central,Texas,Pearland,77581,United States
+Central,Texas,Pharr,78577,United States
+Central,Texas,Plano,75023,United States
+Central,Texas,Port Arthur,77642,United States
+Central,Texas,Richardson,75080,United States
+Central,Texas,Round Rock,78664,United States
+Central,Texas,San Angelo,76903,United States
+Central,Texas,San Antonio,78207,United States
+Central,Texas,San Marcos,78666,United States
+Central,Texas,Texas City,77590,United States
+Central,Texas,The Colony,75056,United States
+Central,Texas,Tyler,75701,United States
+Central,Texas,Waco,76706,United States
+Central,Wisconsin,Appleton,54915,United States
+Central,Wisconsin,Eau Claire,54703,United States
+Central,Wisconsin,Franklin,53132,United States
+Central,Wisconsin,Green Bay,54302,United States
+Central,Wisconsin,Kenosha,53142,United States
+Central,Wisconsin,La Crosse,54601,United States
+Central,Wisconsin,Madison,53711,United States
+Central,Wisconsin,Milwaukee,53209,United States
+Central,Wisconsin,Sheboygan,53081,United States
+Central,Wisconsin,Superior,54880,United States
+Central,Wisconsin,Waukesha,53186,United States
+Central,Wisconsin,Wausau,54401,United States
+Central,Wisconsin,West Allis,53214,United States
+East,Connecticut,Bristol,6010,United States
+East,Connecticut,Danbury,6810,United States
+East,Connecticut,Fairfield,6824,United States
+East,Connecticut,Manchester,6040,United States
+East,Connecticut,Meriden,6450,United States
+East,Connecticut,Middletown,6457,United States
+East,Connecticut,Milford,6460,United States
+East,Connecticut,Norwich,6360,United States
+East,Connecticut,Shelton,6484,United States
+East,Connecticut,Waterbury,6708,United States
+East,Delaware,Dover,19901,United States
+East,Delaware,Newark,19711,United States
+East,Delaware,Wilmington,19805,United States
+East,District of Columbia,Washington,20016,United States
+East,Maine,Bangor,4401,United States
+East,Maine,Lewiston,4240,United States
+East,Maryland,Baltimore,21215,United States
+East,Maryland,Clinton,20735,United States
+East,Maryland,Columbia,21044,United States
+East,Maryland,Gaithersburg,20877,United States
+East,Maryland,Hagerstown,21740,United States
+East,Maryland,Laurel,20707,United States
+East,Maryland,Rockville,20852,United States
+East,Massachusetts,Andover,1810,United States
+East,Massachusetts,Beverly,1915,United States
+East,Massachusetts,Cambridge,2138,United States
+East,Massachusetts,Everett,2149,United States
+East,Massachusetts,Franklin,2038,United States
+East,Massachusetts,Holyoke,1040,United States
+East,Massachusetts,Lawrence,1841,United States
+East,Massachusetts,Leominster,1453,United States
+East,Massachusetts,Lowell,1852,United States
+East,Massachusetts,Malden,2148,United States
+East,Massachusetts,Marlborough,1752,United States
+East,Massachusetts,New Bedford,2740,United States
+East,Massachusetts,Quincy,2169,United States
+East,Massachusetts,Revere,2151,United States
+East,New Hampshire,Concord,3301,United States
+East,New Hampshire,Dover,3820,United States
+East,New Hampshire,Nashua,3060,United States
+East,New Jersey,Atlantic City,8401,United States
+East,New Jersey,Bayonne,7002,United States
+East,New Jersey,Belleville,7109,United States
+East,New Jersey,Bridgeton,8302,United States
+East,New Jersey,Clifton,7011,United States
+East,New Jersey,East Orange,7017,United States
+East,New Jersey,Hackensack,7601,United States
+East,New Jersey,Lakewood,8701,United States
+East,New Jersey,Linden,7036,United States
+East,New Jersey,Morristown,7960,United States
+East,New Jersey,New Brunswick,8901,United States
+East,New Jersey,Orange,7050,United States
+East,New Jersey,Passaic,7055,United States
+East,New Jersey,Paterson,7501,United States
+East,New Jersey,Perth Amboy,8861,United States
+East,New Jersey,Plainfield,7060,United States
+East,New Jersey,Vineland,8360,United States
+East,New Jersey,Westfield,7090,United States
+East,New York,Auburn,13021,United States
+East,New York,Buffalo,14215,United States
+East,New York,Freeport,11520,United States
+East,New York,Hempstead,11550,United States
+East,New York,Jamestown,14701,United States
+East,New York,Lindenhurst,11757,United States
+East,New York,Long Beach,11561,United States
+East,New York,Mount Vernon,10550,United States
+East,New York,New Rochelle,10801,United States
+East,New York,New York City,10024,United States
+East,New York,New York City,10011,United States
+East,New York,New York City,10009,United States
+East,New York,New York City,10035,United States
+East,New York,Niagara Falls,14304,United States
+East,New York,Oceanside,11572,United States
+East,New York,Rochester,14609,United States
+East,New York,Rome,13440,United States
+East,New York,Troy,12180,United States
+East,New York,Utica,13501,United States
+East,New York,Watertown,13601,United States
+East,New York,Yonkers,10701,United States
+East,Ohio,Akron,44312,United States
+East,Ohio,Bowling Green,43402,United States
+East,Ohio,Cincinnati,45231,United States
+East,Ohio,Cleveland,44105,United States
+East,Ohio,Columbus,43229,United States
+East,Ohio,Cuyahoga Falls,44221,United States
+East,Ohio,Dublin,43017,United States
+East,Ohio,Elyria,44035,United States
+East,Ohio,Fairfield,45014,United States
+East,Ohio,Grove City,43123,United States
+East,Ohio,Hamilton,45011,United States
+East,Ohio,Kent,44240,United States
+East,Ohio,Lakewood,44107,United States
+East,Ohio,Lancaster,43130,United States
+East,Ohio,Lorain,44052,United States
+East,Ohio,Marion,43302,United States
+East,Ohio,Mason,45040,United States
+East,Ohio,Medina,44256,United States
+East,Ohio,Mentor,44060,United States
+East,Ohio,Newark,43055,United States
+East,Ohio,Parma,44134,United States
+East,Ohio,Springfield,45503,United States
+East,Ohio,Toledo,43615,United States
+East,Ohio,Troy,45373,United States
+East,Pennsylvania,Allentown,18103,United States
+East,Pennsylvania,Altoona,16602,United States
+East,Pennsylvania,Bethlehem,18018,United States
+East,Pennsylvania,Chester,19013,United States
+East,Pennsylvania,Lancaster,17602,United States
+East,Pennsylvania,Philadelphia,19143,United States
+East,Pennsylvania,Philadelphia,19140,United States
+East,Pennsylvania,Philadelphia,19120,United States
+East,Pennsylvania,Philadelphia,19134,United States
+East,Pennsylvania,Reading,19601,United States
+East,Pennsylvania,York,17403,United States
+East,Rhode Island,Cranston,2920,United States
+East,Rhode Island,Providence,2908,United States
+East,Rhode Island,Warwick,2886,United States
+East,Rhode Island,Woonsocket,2895,United States
+East,Vermont,Burlington,5408,United States
+East,West Virginia,Wheeling,26003,United States
+South,Alabama,Auburn,36830,United States
+South,Alabama,Decatur,35601,United States
+South,Alabama,Florence,35630,United States
+South,Alabama,Hoover,35244,United States
+South,Alabama,Huntsville,35810,United States
+South,Alabama,Mobile,36608,United States
+South,Alabama,Montgomery,36116,United States
+South,Alabama,Tuscaloosa,35401,United States
+South,Arkansas,Conway,72032,United States
+South,Arkansas,Fayetteville,72701,United States
+South,Arkansas,Hot Springs,71901,United States
+South,Arkansas,Jonesboro,72401,United States
+South,Arkansas,Little Rock,72209,United States
+South,Arkansas,Pine Bluff,71603,United States
+South,Arkansas,Rogers,72756,United States
+South,Arkansas,Springdale,72762,United States
+South,Arkansas,Texarkana,71854,United States
+South,Florida,Apopka,32712,United States
+South,Florida,Boca Raton,33433,United States
+South,Florida,Boynton Beach,33437,United States
+South,Florida,Coral Gables,33134,United States
+South,Florida,Coral Springs,33065,United States
+South,Florida,Daytona Beach,32114,United States
+South,Florida,Delray Beach,33445,United States
+South,Florida,Deltona,32725,United States
+South,Florida,Fort Lauderdale,33311,United States
+South,Florida,Hialeah,33012,United States
+South,Florida,Hollywood,33021,United States
+South,Florida,Homestead,33030,United States
+South,Florida,Jacksonville,32216,United States
+South,Florida,Jupiter,33458,United States
+South,Florida,Kissimmee,34741,United States
+South,Florida,Lakeland,33801,United States
+South,Florida,Margate,33063,United States
+South,Florida,Melbourne,32935,United States
+South,Florida,Miami,33142,United States
+South,Florida,Miami,33180,United States
+South,Florida,Miami,33178,United States
+South,Florida,Miramar,33023,United States
+South,Florida,North Miami,33161,United States
+South,Florida,Orlando,32839,United States
+South,Florida,Ormond Beach,32174,United States
+South,Florida,Palm Coast,32137,United States
+South,Florida,Pembroke Pines,33024,United States
+South,Florida,Pensacola,32503,United States
+South,Florida,Plantation,33317,United States
+South,Florida,Pompano Beach,33068,United States
+South,Florida,Port Orange,32127,United States
+South,Florida,Port Saint Lucie,34952,United States
+South,Florida,Saint Petersburg,33710,United States
+South,Florida,Sanford,32771,United States
+South,Florida,Tallahassee,32303,United States
+South,Florida,Tamarac,33319,United States
+South,Florida,Tampa,33614,United States
+South,Florida,West Palm Beach,33407,United States
+South,Georgia,Athens,30605,United States
+South,Georgia,Atlanta,30318,United States
+South,Georgia,Columbus,31907,United States
+South,Georgia,East Point,30344,United States
+South,Georgia,Macon,31204,United States
+South,Georgia,Marietta,30062,United States
+South,Georgia,Roswell,30076,United States
+South,Georgia,Sandy Springs,30328,United States
+South,Georgia,Smyrna,30080,United States
+South,Georgia,Warner Robins,31088,United States
+South,Georgia,Woodstock,30188,United States
+South,Kentucky,Bowling Green,42104,United States
+South,Kentucky,Florence,41042,United States
+South,Kentucky,Georgetown,40324,United States
+South,Kentucky,Henderson,42420,United States
+South,Kentucky,Louisville,40214,United States
+South,Kentucky,Murray,42071,United States
+South,Kentucky,Owensboro,42301,United States
+South,Kentucky,Richmond,40475,United States
+South,Louisiana,Bossier City,71111,United States
+South,Louisiana,Kenner,70065,United States
+South,Louisiana,Lafayette,70506,United States
+South,Louisiana,Lake Charles,70601,United States
+South,Louisiana,Monroe,71203,United States
+South,Mississippi,Gulfport,39503,United States
+South,Mississippi,Hattiesburg,39401,United States
+South,Mississippi,Jackson,39212,United States
+South,Mississippi,Southaven,38671,United States
+South,North Carolina,Asheville,28806,United States
+South,North Carolina,Burlington,27217,United States
+South,North Carolina,Cary,27511,United States
+South,North Carolina,Chapel Hill,27514,United States
+South,North Carolina,Charlotte,28205,United States
+South,North Carolina,Concord,28027,United States
+South,North Carolina,Durham,27707,United States
+South,North Carolina,Fayetteville,28314,United States
+South,North Carolina,Gastonia,28052,United States
+South,North Carolina,Goldsboro,27534,United States
+South,North Carolina,Greensboro,27405,United States
+South,North Carolina,Greenville,27834,United States
+South,North Carolina,Hickory,28601,United States
+South,North Carolina,Jacksonville,28540,United States
+South,North Carolina,Monroe,28110,United States
+South,North Carolina,Raleigh,27604,United States
+South,North Carolina,Thomasville,27360,United States
+South,North Carolina,Wilmington,28403,United States
+South,North Carolina,Wilson,27893,United States
+South,South Carolina,Columbia,29203,United States
+South,South Carolina,Florence,29501,United States
+South,South Carolina,Mount Pleasant,29464,United States
+South,South Carolina,North Charleston,29406,United States
+South,South Carolina,Rock Hill,29730,United States
+South,South Carolina,Summerville,29483,United States
+South,Tennessee,Bartlett,38134,United States
+South,Tennessee,Bristol,37620,United States
+South,Tennessee,Chattanooga,37421,United States
+South,Tennessee,Clarksville,37042,United States
+South,Tennessee,Columbia,38401,United States
+South,Tennessee,Franklin,37064,United States
+South,Tennessee,Hendersonville,37075,United States
+South,Tennessee,Jackson,38301,United States
+South,Tennessee,Johnson City,37604,United States
+South,Tennessee,Knoxville,37918,United States
+South,Tennessee,Lebanon,37087,United States
+South,Tennessee,Memphis,38109,United States
+South,Tennessee,Murfreesboro,37130,United States
+South,Tennessee,Nashville,37211,United States
+South,Tennessee,Smyrna,37167,United States
+South,Virginia,Alexandria,22304,United States
+South,Virginia,Arlington,22204,United States
+South,Virginia,Charlottesville,22901,United States
+South,Virginia,Chesapeake,23320,United States
+South,Virginia,Hampton,23666,United States
+South,Virginia,Harrisonburg,22801,United States
+South,Virginia,Newport News,23602,United States
+South,Virginia,Richmond,23223,United States
+South,Virginia,Salem,24153,United States
+South,Virginia,Springfield,22153,United States
+South,Virginia,Suffolk,23434,United States
+South,Virginia,Virginia Beach,23464,United States
+South,Virginia,Waynesboro,22980,United States
+West,Arizona,Avondale,85323,United States
+West,Arizona,Bullhead City,86442,United States
+West,Arizona,Chandler,85224,United States
+West,Arizona,Gilbert,85234,United States
+West,Arizona,Glendale,85301,United States
+West,Arizona,Mesa,85204,United States
+West,Arizona,Peoria,85345,United States
+West,Arizona,Phoenix,85023,United States
+West,Arizona,Scottsdale,85254,United States
+West,Arizona,Sierra Vista,85635,United States
+West,Arizona,Tempe,85281,United States
+West,Arizona,Tucson,85705,United States
+West,Arizona,Yuma,85364,United States
+West,California,Anaheim,92804,United States
+West,California,Antioch,94509,United States
+West,California,Apple Valley,92307,United States
+West,California,Bakersfield,93309,United States
+West,California,Brentwood,94513,United States
+West,California,Burbank,91505,United States
+West,California,Camarillo,93010,United States
+West,California,Chico,95928,United States
+West,California,Chula Vista,91911,United States
+West,California,Citrus Heights,95610,United States
+West,California,Coachella,92236,United States
+West,California,Concord,94521,United States
+West,California,Costa Mesa,92627,United States
+West,California,Danville,94526,United States
+West,California,Davis,95616,United States
+West,California,Dublin,94568,United States
+West,California,El Cajon,92020,United States
+West,California,Encinitas,92024,United States
+West,California,Escondido,92025,United States
+West,California,Fairfield,94533,United States
+West,California,Fresno,93727,United States
+West,California,Hesperia,92345,United States
+West,California,Huntington Beach,92646,United States
+West,California,Inglewood,90301,United States
+West,California,La Mesa,91941,United States
+West,California,La Quinta,92253,United States
+West,California,Laguna Niguel,92677,United States
+West,California,Lake Elsinore,92530,United States
+West,California,Lake Forest,92630,United States
+West,California,Lakewood,90712,United States
+West,California,Lancaster,93534,United States
+West,California,Lodi,95240,United States
+West,California,Long Beach,90805,United States
+West,California,Los Angeles,90032,United States
+West,California,Los Angeles,90036,United States
+West,California,Los Angeles,90049,United States
+West,California,Los Angeles,90008,United States
+West,California,Los Angeles,90004,United States
+West,California,Los Angeles,90045,United States
+West,California,Manteca,95336,United States
+West,California,Mission Viejo,92691,United States
+West,California,Modesto,95351,United States
+West,California,Montebello,90640,United States
+West,California,Moreno Valley,92553,United States
+West,California,Morgan Hill,95037,United States
+West,California,Murrieta,92563,United States
+West,California,Oakland,94601,United States
+West,California,Oceanside,92054,United States
+West,California,Ontario,91761,United States
+West,California,Oxnard,93030,United States
+West,California,Pasadena,91104,United States
+West,California,Pico Rivera,90660,United States
+West,California,Pomona,91767,United States
+West,California,Rancho Cucamonga,91730,United States
+West,California,Redding,96003,United States
+West,California,Redlands,92374,United States
+West,California,Redondo Beach,90278,United States
+West,California,Redwood City,94061,United States
+West,California,Riverside,92503,United States
+West,California,Roseville,95661,United States
+West,California,Sacramento,95823,United States
+West,California,Salinas,93905,United States
+West,California,San Bernardino,92404,United States
+West,California,San Clemente,92672,United States
+West,California,San Diego,92037,United States
+West,California,San Diego,92024,United States
+West,California,San Diego,92105,United States
+West,California,San Francisco,94110,United States
+West,California,San Francisco,94109,United States
+West,California,San Francisco,94122,United States
+West,California,San Gabriel,91776,United States
+West,California,San Jose,95123,United States
+West,California,San Luis Obispo,93405,United States
+West,California,San Mateo,94403,United States
+West,California,Santa Ana,92704,United States
+West,California,Santa Barbara,93101,United States
+West,California,Santa Clara,95051,United States
+West,California,Santa Maria,93454,United States
+West,California,Stockton,95207,United States
+West,California,Sunnyvale,94086,United States
+West,California,Temecula,92592,United States
+West,California,Thousand Oaks,91360,United States
+West,California,Torrance,90503,United States
+West,California,Vacaville,95687,United States
+West,California,Vallejo,94591,United States
+West,California,Visalia,93277,United States
+West,California,Westminster,92683,United States
+West,California,Whittier,90604,United States
+West,California,Woodland,95695,United States
+West,California,Yucaipa,92399,United States
+West,Colorado,Arvada,80004,United States
+West,Colorado,Aurora,80013,United States
+West,Colorado,Broomfield,80020,United States
+West,Colorado,Colorado Springs,80906,United States
+West,Colorado,Commerce City,80022,United States
+West,Colorado,Denver,80219,United States
+West,Colorado,Englewood,80112,United States
+West,Colorado,Fort Collins,80525,United States
+West,Colorado,Greeley,80634,United States
+West,Colorado,Littleton,80122,United States
+West,Colorado,Longmont,80501,United States
+West,Colorado,Louisville,80027,United States
+West,Colorado,Loveland,80538,United States
+West,Colorado,Parker,80134,United States
+West,Colorado,Pueblo,81001,United States
+West,Colorado,Thornton,80229,United States
+West,Idaho,Boise,83704,United States
+West,Idaho,Caldwell,83605,United States
+West,Idaho,Lewiston,83501,United States
+West,Idaho,Meridian,83642,United States
+West,Idaho,Pocatello,83201,United States
+West,Idaho,Twin Falls,83301,United States
+West,Montana,Billings,59102,United States
+West,Montana,Bozeman,59715,United States
+West,Montana,Great Falls,59405,United States
+West,Montana,Helena,59601,United States
+West,Montana,Missoula,59801,United States
+West,Nevada,Henderson,89015,United States
+West,Nevada,Las Vegas,89115,United States
+West,Nevada,North Las Vegas,89031,United States
+West,Nevada,Reno,89502,United States
+West,Nevada,Sparks,89431,United States
+West,New Mexico,Albuquerque,87105,United States
+West,New Mexico,Carlsbad,88220,United States
+West,New Mexico,Clovis,88101,United States
+West,New Mexico,Farmington,87401,United States
+West,New Mexico,Las Cruces,88001,United States
+West,New Mexico,Rio Rancho,87124,United States
+West,New Mexico,Santa Fe,87505,United States
+West,Oregon,Eugene,97405,United States
+West,Oregon,Gresham,97030,United States
+West,Oregon,Hillsboro,97123,United States
+West,Oregon,Medford,97504,United States
+West,Oregon,Portland,97206,United States
+West,Oregon,Redmond,97756,United States
+West,Oregon,Salem,97301,United States
+West,Oregon,Springfield,97477,United States
+West,Oregon,Tigard,97224,United States
+West,Utah,Draper,84020,United States
+West,Utah,Layton,84041,United States
+West,Utah,Lehi,84043,United States
+West,Utah,Logan,84321,United States
+West,Utah,Murray,84107,United States
+West,Utah,Orem,84057,United States
+West,Utah,Pleasant Grove,84062,United States
+West,Utah,Provo,84604,United States
+West,Utah,Salt Lake City,84106,United States
+West,Utah,West Jordan,84084,United States
+West,Washington,Auburn,98002,United States
+West,Washington,Bellevue,98006,United States
+West,Washington,Bellingham,98226,United States
+West,Washington,Covington,98042,United States
+West,Washington,Des Moines,98198,United States
+West,Washington,Edmonds,98026,United States
+West,Washington,Everett,98208,United States
+West,Washington,Kent,98031,United States
+West,Washington,Longview,98632,United States
+West,Washington,Marysville,98270,United States
+West,Washington,Olympia,98502,United States
+West,Washington,Pasco,99301,United States
+West,Washington,Redmond,98052,United States
+West,Washington,Renton,98059,United States
+West,Washington,Seattle,98105,United States
+West,Washington,Seattle,98115,United States
+West,Washington,Seattle,98103,United States
+West,Washington,Spokane,99207,United States
+West,Washington,Vancouver,98661,United States
+West,Wyoming,Cheyenne,82001,United States
