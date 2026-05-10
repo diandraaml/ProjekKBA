@@ -6,9 +6,9 @@ Central,Illinois,Bolingbrook,60440,United States
 Central,Illinois,Buffalo Grove,60089,United States
 Central,Illinois,Carol Stream,60188,United States
 Central,Illinois,Champaign,61821,United States
+Central,Illinois,Chicago,60610,United States
 Central,Illinois,Chicago,60623,United States
 Central,Illinois,Chicago,60653,United States
-Central,Illinois,Chicago,60610,United States
 Central,Illinois,Danville,61832,United States
 Central,Illinois,Decatur,62521,United States
 Central,Illinois,Des Plaines,60016,United States
@@ -66,8 +66,8 @@ Central,Michigan,Ann Arbor,48104,United States
 Central,Michigan,Canton,48187,United States
 Central,Michigan,Dearborn,48126,United States
 Central,Michigan,Dearborn Heights,48127,United States
-Central,Michigan,Detroit,48234,United States
 Central,Michigan,Detroit,48227,United States
+Central,Michigan,Detroit,48234,United States
 Central,Michigan,Detroit,48205,United States
 Central,Michigan,Grand Rapids,49505,United States
 Central,Michigan,Holland,49423,United States
@@ -138,9 +138,9 @@ Central,Texas,College Station,77840,United States
 Central,Texas,Conroe,77301,United States
 Central,Texas,Coppell,75019,United States
 Central,Texas,Corpus Christi,78415,United States
+Central,Texas,Dallas,75220,United States
 Central,Texas,Dallas,75081,United States
 Central,Texas,Dallas,75217,United States
-Central,Texas,Dallas,75220,United States
 Central,Texas,Deer Park,77536,United States
 Central,Texas,Edinburg,78539,United States
 Central,Texas,El Paso,79907,United States
@@ -151,10 +151,10 @@ Central,Texas,Grand Prairie,75051,United States
 Central,Texas,Grapevine,76051,United States
 Central,Texas,Haltom City,76117,United States
 Central,Texas,Harlingen,78550,United States
-Central,Texas,Houston,77070,United States
 Central,Texas,Houston,77095,United States
-Central,Texas,Houston,77036,United States
 Central,Texas,Houston,77041,United States
+Central,Texas,Houston,77036,United States
+Central,Texas,Houston,77070,United States
 Central,Texas,Huntsville,77340,United States
 Central,Texas,Irving,75061,United States
 Central,Texas,Keller,76248,United States
@@ -261,8 +261,8 @@ East,New York,Lindenhurst,11757,United States
 East,New York,Long Beach,11561,United States
 East,New York,Mount Vernon,10550,United States
 East,New York,New Rochelle,10801,United States
-East,New York,New York City,10024,United States
 East,New York,New York City,10011,United States
+East,New York,New York City,10024,United States
 East,New York,New York City,10009,United States
 East,New York,New York City,10035,United States
 East,New York,Niagara Falls,14304,United States
@@ -302,17 +302,17 @@ East,Pennsylvania,Altoona,16602,United States
 East,Pennsylvania,Bethlehem,18018,United States
 East,Pennsylvania,Chester,19013,United States
 East,Pennsylvania,Lancaster,17602,United States
-East,Pennsylvania,Philadelphia,19143,United States
 East,Pennsylvania,Philadelphia,19140,United States
 East,Pennsylvania,Philadelphia,19120,United States
 East,Pennsylvania,Philadelphia,19134,United States
+East,Pennsylvania,Philadelphia,19143,United States
 East,Pennsylvania,Reading,19601,United States
 East,Pennsylvania,York,17403,United States
 East,Rhode Island,Cranston,2920,United States
 East,Rhode Island,Providence,2908,United States
 East,Rhode Island,Warwick,2886,United States
 East,Rhode Island,Woonsocket,2895,United States
-East,Vermont,Burlington,5408,United States
+East,Vermont,Burlington,05408,United States
 East,West Virginia,Wheeling,26003,United States
 South,Alabama,Auburn,36830,United States
 South,Alabama,Decatur,35601,United States
@@ -349,9 +349,9 @@ South,Florida,Kissimmee,34741,United States
 South,Florida,Lakeland,33801,United States
 South,Florida,Margate,33063,United States
 South,Florida,Melbourne,32935,United States
-South,Florida,Miami,33142,United States
 South,Florida,Miami,33180,United States
 South,Florida,Miami,33178,United States
+South,Florida,Miami,33142,United States
 South,Florida,Miramar,33023,United States
 South,Florida,North Miami,33161,United States
 South,Florida,Orlando,32839,United States
@@ -496,12 +496,12 @@ West,California,Lakewood,90712,United States
 West,California,Lancaster,93534,United States
 West,California,Lodi,95240,United States
 West,California,Long Beach,90805,United States
-West,California,Los Angeles,90032,United States
-West,California,Los Angeles,90036,United States
-West,California,Los Angeles,90049,United States
-West,California,Los Angeles,90008,United States
-West,California,Los Angeles,90004,United States
 West,California,Los Angeles,90045,United States
+West,California,Los Angeles,90049,United States
+West,California,Los Angeles,90004,United States
+West,California,Los Angeles,90036,United States
+West,California,Los Angeles,90008,United States
+West,California,Los Angeles,90032,United States
 West,California,Manteca,95336,United States
 West,California,Mission Viejo,92691,United States
 West,California,Modesto,95351,United States
@@ -531,8 +531,8 @@ West,California,San Diego,92037,United States
 West,California,San Diego,92024,United States
 West,California,San Diego,92105,United States
 West,California,San Francisco,94110,United States
-West,California,San Francisco,94109,United States
 West,California,San Francisco,94122,United States
+West,California,San Francisco,94109,United States
 West,California,San Gabriel,91776,United States
 West,California,San Jose,95123,United States
 West,California,San Luis Obispo,93405,United States
@@ -625,8 +625,8 @@ West,Washington,Olympia,98502,United States
 West,Washington,Pasco,99301,United States
 West,Washington,Redmond,98052,United States
 West,Washington,Renton,98059,United States
-West,Washington,Seattle,98105,United States
 West,Washington,Seattle,98115,United States
+West,Washington,Seattle,98105,United States
 West,Washington,Seattle,98103,United States
 West,Washington,Spokane,99207,United States
 West,Washington,Vancouver,98661,United States
