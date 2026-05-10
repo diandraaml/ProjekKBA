@@ -125,11 +125,14 @@ clean_cols = """
 # ============================================================
 # Transformasi Tipe Data — Konversi angka & tipe kolom
 # ============================================================
-cast_cols = f"""
-    {cnum('Sales')}                 AS sales,
+def cnum(col_name):
+    return f'CAST("{col_name}" AS DOUBLE)'
+
+cast_cols = """
+    CAST("Sales" AS DOUBLE)         AS sales,
     CAST("Quantity" AS INTEGER)     AS quantity,
     CAST("Discount" AS DOUBLE)      AS discount,
-    {cnum('Profit')}                AS profit
+    CAST("Profit" AS DOUBLE)        AS profit
 """
 
 # ============================================================

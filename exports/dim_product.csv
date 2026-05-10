@@ -299,8 +299,8 @@ FUR-FU-10004093,Hand-Finished Solid Wood Document Frame,Furniture,Furnishings
 FUR-FU-10004164,"Eldon 300 Class Desk Accessories, Black",Furniture,Furnishings
 FUR-FU-10004188,Luxo Professional Combination Clamp-On Lamps,Furniture,Furnishings
 FUR-FU-10004245,"Career Cubicle Clock, 8 1/4"", Black",Furniture,Furnishings
-FUR-FU-10004270,"Eldon Image Series Desk Accessories, Burgundy",Furniture,Furnishings
 FUR-FU-10004270,"Executive Impressions 13"" Clairmont Wall Clock",Furniture,Furnishings
+FUR-FU-10004270,"Eldon Image Series Desk Accessories, Burgundy",Furniture,Furnishings
 FUR-FU-10004306,Electrix Halogen Magnifier Lamp,Furniture,Furnishings
 FUR-FU-10004351,Staple-based wall hangings,Furniture,Furnishings
 FUR-FU-10004415,"Stacking Tray, Side-Loading, Legal, Smoke",Furniture,Furnishings
@@ -394,8 +394,8 @@ OFF-AP-10000275,"Sanyo Counter Height Refrigerator with Crisper, 3.6 Cubic Foot,
 OFF-AP-10000326,Belkin 7 Outlet SurgeMaster Surge Protector with Phone Protection,Office Supplies,Appliances
 OFF-AP-10000358,Fellowes Basic Home/Office Series Surge Protectors,Office Supplies,Appliances
 OFF-AP-10000390,Euro Pro Shark Stick Mini Vacuum,Office Supplies,Appliances
-OFF-AP-10000576,Belkin 7 Outlet SurgeMaster II,Office Supplies,Appliances
 OFF-AP-10000576,"Belkin 325VA UPS Surge Protector, 6'",Office Supplies,Appliances
+OFF-AP-10000576,Belkin 7 Outlet SurgeMaster II,Office Supplies,Appliances
 OFF-AP-10000595,Disposable Triple-Filter Dust Bags,Office Supplies,Appliances
 OFF-AP-10000692,Fellowes Mighty 8 Compact Surge Protector,Office Supplies,Appliances
 OFF-AP-10000696,Holmes Odor Grabber,Office Supplies,Appliances
@@ -514,8 +514,8 @@ OFF-AR-10001026,"Sanford Uni-Blazer View Highlighters, Chisel Tip, Yellow",Offic
 OFF-AR-10001044,"BOSTON Ranger #55 Pencil Sharpener, Black",Office Supplies,Art
 OFF-AR-10001118,"Binney & Smith Crayola Metallic Crayons, 16-Color Pack",Office Supplies,Art
 OFF-AR-10001130,"Quartet Alpha White Chalk, 12/Pack",Office Supplies,Art
-OFF-AR-10001149,"Sanford Colorific Colored Pencils, 12/Box",Office Supplies,Art
 OFF-AR-10001149,"Avery Hi-Liter Comfort Grip Fluorescent Highlighter, Yellow Ink",Office Supplies,Art
+OFF-AR-10001149,"Sanford Colorific Colored Pencils, 12/Box",Office Supplies,Art
 OFF-AR-10001166,Staples in misc. colors,Office Supplies,Art
 OFF-AR-10001177,Newell 349,Office Supplies,Art
 OFF-AR-10001216,Newell 339,Office Supplies,Art
@@ -841,10 +841,10 @@ OFF-BI-10004528,Cardinal Poly Pocket Divider Pockets for Ring Binders,Office Sup
 OFF-BI-10004584,GBC ProClick 150 Presentation Binding System,Office Supplies,Binders
 OFF-BI-10004593,Ibico Laser Imprintable Binding System Covers,Office Supplies,Binders
 OFF-BI-10004600,Ibico Ibimaster 300 Manual Binding System,Office Supplies,Binders
-OFF-BI-10004632,GBC Binding covers,Office Supplies,Binders
 OFF-BI-10004632,Ibico Hi-Tech Manual Binding System,Office Supplies,Binders
-OFF-BI-10004654,VariCap6 Expandable Binder,Office Supplies,Binders
+OFF-BI-10004632,GBC Binding covers,Office Supplies,Binders
 OFF-BI-10004654,Avery Binding System Hidden Tab Executive Style Index Sets,Office Supplies,Binders
+OFF-BI-10004654,VariCap6 Expandable Binder,Office Supplies,Binders
 OFF-BI-10004656,Peel & Stick Add-On Corner Pockets,Office Supplies,Binders
 OFF-BI-10004716,Wilson Jones Hanging Recycled Pressboard Data Binders,Office Supplies,Binders
 OFF-BI-10004728,Wilson Jones Turn Tabs Binder Tool for Ring Binders,Office Supplies,Binders
@@ -1056,14 +1056,14 @@ OFF-PA-10000312,Xerox 1955,Office Supplies,Paper
 OFF-PA-10000327,Xerox 1971,Office Supplies,Paper
 OFF-PA-10000349,Easy-staple paper,Office Supplies,Paper
 OFF-PA-10000350,"Message Book, Standard Line ""While You Were Out"", 5 1/2"" X 4"", 200 Sets/Book",Office Supplies,Paper
-OFF-PA-10000357,"White Dual Perf Computer Printout Paper, 2700 Sheets, 1 Part, Heavyweight, 20 lbs., 14 7/8 x 11",Office Supplies,Paper
 OFF-PA-10000357,Xerox 1888,Office Supplies,Paper
+OFF-PA-10000357,"White Dual Perf Computer Printout Paper, 2700 Sheets, 1 Part, Heavyweight, 20 lbs., 14 7/8 x 11",Office Supplies,Paper
 OFF-PA-10000380,"REDIFORM Incoming/Outgoing Call Register, 11"" X 8 1/2"", 100 Messages",Office Supplies,Paper
 OFF-PA-10000418,Xerox 189,Office Supplies,Paper
 OFF-PA-10000466,"Memo Book, 100 Message Capacity, 5 3/8” x 11”",Office Supplies,Paper
 OFF-PA-10000474,Easy-staple paper,Office Supplies,Paper
-OFF-PA-10000477,Xerox 22,Office Supplies,Paper
 OFF-PA-10000477,Xerox 1952,Office Supplies,Paper
+OFF-PA-10000477,Xerox 22,Office Supplies,Paper
 OFF-PA-10000482,"Snap-A-Way Black Print Carbonless Ruled Speed Letter, Triplicate",Office Supplies,Paper
 OFF-PA-10000483,Xerox 19,Office Supplies,Paper
 OFF-PA-10000501,Petty Cash Envelope,Office Supplies,Paper
@@ -1078,8 +1078,8 @@ OFF-PA-10000575,"Wirebound Message Books, Four 2 3/4 x 5 White Forms per Page",O
 OFF-PA-10000587,"Array Parchment Paper, Assorted Colors",Office Supplies,Paper
 OFF-PA-10000595,Xerox 1929,Office Supplies,Paper
 OFF-PA-10000605,Xerox 1950,Office Supplies,Paper
-OFF-PA-10000659,"TOPS Carbonless Receipt Book, Four 2-3/4 x 7-1/4 Money Receipts per Page",Office Supplies,Paper
 OFF-PA-10000659,"Adams Phone Message Book, Professional, 400 Message Capacity, 5 3/6” x 11”",Office Supplies,Paper
+OFF-PA-10000659,"TOPS Carbonless Receipt Book, Four 2-3/4 x 7-1/4 Money Receipts per Page",Office Supplies,Paper
 OFF-PA-10000673,"Post-it “Important Message” Note Pad, Neon Colors, 50 Sheets/Pad",Office Supplies,Paper
 OFF-PA-10000675,Xerox 1919,Office Supplies,Paper
 OFF-PA-10000682,Xerox 1924,Office Supplies,Paper
@@ -1160,8 +1160,8 @@ OFF-PA-10001947,Xerox 1974,Office Supplies,Paper
 OFF-PA-10001950,Southworth 25% Cotton Antique Laid Paper & Envelopes,Office Supplies,Paper
 OFF-PA-10001952,Xerox 1902,Office Supplies,Paper
 OFF-PA-10001954,Xerox 1964,Office Supplies,Paper
-OFF-PA-10001970,Xerox 1881,Office Supplies,Paper
 OFF-PA-10001970,Xerox 1908,Office Supplies,Paper
+OFF-PA-10001970,Xerox 1881,Office Supplies,Paper
 OFF-PA-10001972,Xerox 214,Office Supplies,Paper
 OFF-PA-10001977,Xerox 194,Office Supplies,Paper
 OFF-PA-10001994,"Ink Jet Note and Greeting Cards, 8-1/2"" x 5-1/2"" Card Size",Office Supplies,Paper
@@ -1186,8 +1186,8 @@ OFF-PA-10002262,Xerox 192,Office Supplies,Paper
 OFF-PA-10002319,Xerox 1944,Office Supplies,Paper
 OFF-PA-10002333,"Universal Ultra Bright White Copier/Laser Paper, 8 1/2"" x 11"", Ream",Office Supplies,Paper
 OFF-PA-10002365,Xerox 1967,Office Supplies,Paper
-OFF-PA-10002377,Xerox 1916,Office Supplies,Paper
 OFF-PA-10002377,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 200/Messages",Office Supplies,Paper
+OFF-PA-10002377,Xerox 1916,Office Supplies,Paper
 OFF-PA-10002421,Embossed Ink Jet Note Cards,Office Supplies,Paper
 OFF-PA-10002464,HP Office Recycled Paper (20Lb. and 87 Bright),Office Supplies,Paper
 OFF-PA-10002479,Xerox 4200 Series MultiUse Premium Copy Paper (20Lb. and 84 Bright),Office Supplies,Paper
@@ -1217,8 +1217,8 @@ OFF-PA-10002968,Xerox 1973,Office Supplies,Paper
 OFF-PA-10002986,Xerox 1898,Office Supplies,Paper
 OFF-PA-10003001,Xerox 1986,Office Supplies,Paper
 OFF-PA-10003016,"Adams ""While You Were Out"" Message Pads",Office Supplies,Paper
-OFF-PA-10003022,Standard Line “While You Were Out” Hardbound Telephone Message Book,Office Supplies,Paper
 OFF-PA-10003022,Xerox 1992,Office Supplies,Paper
+OFF-PA-10003022,Standard Line “While You Were Out” Hardbound Telephone Message Book,Office Supplies,Paper
 OFF-PA-10003036,"Black Print Carbonless 8 1/2"" x 8 1/4"" Rapid Memo Book",Office Supplies,Paper
 OFF-PA-10003039,Xerox 1960,Office Supplies,Paper
 OFF-PA-10003063,EcoTones Memo Sheets,Office Supplies,Paper
@@ -1556,8 +1556,8 @@ TEC-AC-10002380,Sony 8GB Class 10 Micro SDHC R40 Memory Card,Technology,Accessor
 TEC-AC-10002399,SanDisk Cruzer 32 GB USB Flash Drive,Technology,Accessories
 TEC-AC-10002402,Razer Kraken PRO Over Ear PC and Music Headset,Technology,Accessories
 TEC-AC-10002473,Maxell 4.7GB DVD-R,Technology,Accessories
-TEC-AC-10002550,"Memorex 25GB 6X Branded Blu-Ray Recordable Disc, 30/Pack",Technology,Accessories
 TEC-AC-10002550,Maxell 4.7GB DVD-RW 3/Pack,Technology,Accessories
+TEC-AC-10002550,"Memorex 25GB 6X Branded Blu-Ray Recordable Disc, 30/Pack",Technology,Accessories
 TEC-AC-10002558,Imation Swivel Flash Drive USB flash drive - 8 GB,Technology,Accessories
 TEC-AC-10002567,Logitech G602 Wireless Gaming Mouse,Technology,Accessories
 TEC-AC-10002600,Belkin QODE FastFit Bluetooth Keyboard,Technology,Accessories
@@ -1593,8 +1593,8 @@ TEC-AC-10003614,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 10/Pack
 TEC-AC-10003628,Logitech 910-002974 M325 Wireless Mouse for Web Scrolling,Technology,Accessories
 TEC-AC-10003657,Lenovo 17-Key USB Numeric Keypad,Technology,Accessories
 TEC-AC-10003709,Maxell 4.7GB DVD-R 5/Pack,Technology,Accessories
-TEC-AC-10003832,Logitech P710e Mobile Speakerphone,Technology,Accessories
 TEC-AC-10003832,Imation 16GB Mini TravelDrive USB 2.0 Flash Drive,Technology,Accessories
+TEC-AC-10003832,Logitech P710e Mobile Speakerphone,Technology,Accessories
 TEC-AC-10003870,Logitech Z-906 Speaker sys - home theater - 5.1-CH,Technology,Accessories
 TEC-AC-10003911,NETGEAR AC1750 Dual Band Gigabit Smart WiFi Router,Technology,Accessories
 TEC-AC-10004001,Logitech Wireless Headset H600 Over-The-Head Design,Technology,Accessories
@@ -1614,6 +1614,7 @@ TEC-AC-10004568,Maxell LTO Ultrium - 800 GB,Technology,Accessories
 TEC-AC-10004571,Logitech G700s Rechargeable Gaming Mouse,Technology,Accessories
 TEC-AC-10004595,First Data TMFD35 PIN Pad,Technology,Accessories
 TEC-AC-10004633,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 3/Pack",Technology,Accessories
+TEC-AC-10004659,Imation Secure+ Hardware Encrypted USB 2.0 Flash Drive; 16GB,Technology,Accessories
 TEC-AC-10004666,Maxell iVDR EX 500GB Cartridge,Technology,Accessories
 TEC-AC-10004708,Sony 32GB Class 10 Micro SDHC R40 Memory Card,Technology,Accessories
 TEC-AC-10004761,Maxell 4.7GB DVD+RW 3/Pack,Technology,Accessories
@@ -1656,8 +1657,8 @@ TEC-MA-10001016,Canon PC170 Desktop Personal Copier,Technology,Machines
 TEC-MA-10001031,Socket Bluetooth Cordless Hand Scanner (CHS),Technology,Machines
 TEC-MA-10001047,"3D Systems Cube Printer, 2nd Generation, Magenta",Technology,Machines
 TEC-MA-10001127,"HP Designjet T520 Inkjet Large Format Printer - 24"" Color",Technology,Machines
-TEC-MA-10001148,Swingline SM12-08 MicroCut Jam Free Shredder,Technology,Machines
 TEC-MA-10001148,Okidata MB491 Multifunction Printer,Technology,Machines
+TEC-MA-10001148,Swingline SM12-08 MicroCut Jam Free Shredder,Technology,Machines
 TEC-MA-10001570,Cisco Desktop Collaboration Experience DX650 IP Video Phone,Technology,Machines
 TEC-MA-10001681,Lexmark MarkNet N8150 Wireless Print Server,Technology,Machines
 TEC-MA-10001695,Zebra GK420t Direct Thermal/Thermal Transfer Printer,Technology,Machines
@@ -1766,8 +1767,8 @@ TEC-PH-10001644,"BlueLounge Milo Smartphone Stand, White/Metallic",Technology,Ph
 TEC-PH-10001700,Panasonic KX-TG6844B Expandable Digital Cordless Telephone,Technology,Phones
 TEC-PH-10001750,Samsung Rugby III,Technology,Phones
 TEC-PH-10001760,Bose SoundLink Bluetooth Speaker,Technology,Phones
-TEC-PH-10001795,ClearOne CHATAttach 160 - speaker phone,Technology,Phones
 TEC-PH-10001795,RCA H5401RE1 DECT 6.0 4-Line Cordless Handset With Caller ID/Call Waiting,Technology,Phones
+TEC-PH-10001795,ClearOne CHATAttach 160 - speaker phone,Technology,Phones
 TEC-PH-10001809,Panasonic KX T7736-B Digital phone,Technology,Phones
 TEC-PH-10001817,Wilson Electronics DB Pro Signal Booster,Technology,Phones
 TEC-PH-10001819,Innergie mMini Combo Duo USB Travel Charging Kit,Technology,Phones
@@ -1786,8 +1787,8 @@ TEC-PH-10002114,Xiaomi Mi3,Technology,Phones
 TEC-PH-10002115,Plantronics 81402,Technology,Phones
 TEC-PH-10002170,ClearSounds CSC500 Amplified Spirit Phone Corded phone,Technology,Phones
 TEC-PH-10002185,QVS USB Car Charger 2-Port 2.1Amp for iPod/iPhone/iPad/iPad 2/iPad 3,Technology,Phones
-TEC-PH-10002200,Aastra 6757i CT Wireless VoIP phone,Technology,Phones
 TEC-PH-10002200,Samsung Galaxy Note 2,Technology,Phones
+TEC-PH-10002200,Aastra 6757i CT Wireless VoIP phone,Technology,Phones
 TEC-PH-10002262,LG Electronics Tone+ HBS-730 Bluetooth Headset,Technology,Phones
 TEC-PH-10002275,Mitel 5320 IP Phone VoIP phone,Technology,Phones
 TEC-PH-10002293,Anker 36W 4-Port USB Wall Charger Travel Power Adapter for iPhone 5s 5c 5,Technology,Phones
@@ -1872,8 +1873,8 @@ TEC-PH-10004389,Nokia Lumia 925,Technology,Phones
 TEC-PH-10004434,Cisco IP Phone 7961G VoIP phone - Dark gray,Technology,Phones
 TEC-PH-10004447,Toshiba IPT2010-SD IP Telephone,Technology,Phones
 TEC-PH-10004522,Dexim XPower Skin Super-Thin Power Case for iPhone 5 - Black,Technology,Phones
-TEC-PH-10004531,OtterBox Commuter Series Case - iPhone 5 & 5s,Technology,Phones
 TEC-PH-10004531,AT&T CL2909,Technology,Phones
+TEC-PH-10004531,OtterBox Commuter Series Case - iPhone 5 & 5s,Technology,Phones
 TEC-PH-10004536,Avaya 5420 Digital phone,Technology,Phones
 TEC-PH-10004539,Wireless Extenders zBoost YX545 SOHO Signal Booster,Technology,Phones
 TEC-PH-10004586,Wilson SignalBoost 841262 DB PRO Amplifier Kit,Technology,Phones
